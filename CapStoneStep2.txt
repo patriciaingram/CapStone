@@ -6,7 +6,7 @@ I plan to use React for the front-end and Node.js for the back-end. This will pr
 2. Is the front-end UI or the back-end going to be the focus of your project? Or are you going to make an evenly focused full-stack application? 
 I intend to create an evenly focused full-stack application. Both the front-end UI and the back-end functionality will be important for providing a seamless user experience and accessing and managing data.
 
-3. Will this be a website? A mobile app? Something else? 
+3. Will this be a website? A mobile app?  Something else? 
 My project will be a website accessible through web browsers. This choice allows for broad accessibility and compatibility across devices.
 
 4. What goal will your project be designed to achieve? 
